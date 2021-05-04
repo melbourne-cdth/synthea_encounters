@@ -1,0 +1,6 @@
+name: synthea_encounters
+channels:
+  - conda
+dependencies:
+  - python=3.9
+  - pandas
