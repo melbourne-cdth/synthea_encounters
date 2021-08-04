@@ -5,3 +5,8 @@ dependencies:
   - python=3.9
   - pandas
   - matplotlib
+  - pip
+  - ipywidgets
+  - pip:
+    - venn
+    - itables
